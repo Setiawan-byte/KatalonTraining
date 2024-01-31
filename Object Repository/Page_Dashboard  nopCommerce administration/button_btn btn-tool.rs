@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btn btn-tool</name>
+   <tag></tag>
+   <elementGuidId>b106bdf8-4569-4a38-81f7-d85667713ac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bestsellers-report-quantity-card > div.card-header.with-border > div.card-tools.float-right > button.btn.btn-tool</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2df4fb5-0733-47d3-bf0a-572aa0d9a5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed5c3977-2c2d-4de2-98b3-5caafcea665a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-tool</value>
+      <webElementGuid>65a8d673-85e4-4b36-b0f3-738161f58cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-card-widget</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>198af09f-74a6-48e0-bb07-c49330e80595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bestsellers-report-quantity-card&quot;)/div[@class=&quot;card-header with-border&quot;]/div[@class=&quot;card-tools float-right&quot;]/button[@class=&quot;btn btn-tool&quot;]</value>
+      <webElementGuid>d2547948-3692-45d7-b8c7-2278cbc93bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>e5f009fb-f78f-4e74-a4fc-c1277c903587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bestsellers-report-quantity-card']/div/div/button</value>
+      <webElementGuid>599daad1-f630-40e3-933d-3195a6e4097b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/button</value>
+      <webElementGuid>768f3a9a-f367-4433-a4ce-bc27b2fe83f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>047dc947-9676-4491-92e0-3e26b5369b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
